@@ -1,4 +1,4 @@
-google-genai
 numpy
-# Local, keyless fallback for embeddings (optional):
-sentence-transformers
+google-genai
+python-dotenv
+
